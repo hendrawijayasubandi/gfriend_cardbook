@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'GFRIEND Cardbook',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
@@ -35,7 +35,7 @@ class MyHomePage extends StatelessWidget {
           )),
           child: Center(
             child: Text(
-              'GFRIEND',
+              'GFRIEND\nCardbook',
               style: TextStyle(
                 fontSize: 48.0,
                 fontFamily: 'Nexa',
