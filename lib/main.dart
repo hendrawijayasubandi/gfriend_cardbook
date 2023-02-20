@@ -11,10 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'GFRIEND Cardbook',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-        visualDensity: VisualDensity.adaptivePlatformDensity,
-      ),
+      theme: ThemeData(),
       home: MyHomePage(),
     );
   }
@@ -38,18 +35,6 @@ class MyHomePage extends StatelessWidget {
               Color.fromRGBO(93, 73, 136, 1),
             ],
           )),
-          // ignore: prefer_const_constructors
-          child: Center(
-            child: const Text(
-              'GFRIEND\nCardbook',
-              style: TextStyle(
-                fontSize: 48.0,
-                fontFamily: 'Nexa',
-                fontWeight: FontWeight.bold,
-                color: Color.fromRGBO(235, 233, 234, 1),
-              ),
-            ),
-          ),
         ),
       ),
     );
