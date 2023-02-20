@@ -5,6 +5,8 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -19,13 +21,16 @@ class MyApp extends StatelessWidget {
 }
 
 class MyHomePage extends StatelessWidget {
+  const MyHomePage({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
         child: Container(
+          // ignore: prefer_const_constructors
           decoration: BoxDecoration(
-              gradient: LinearGradient(
+              gradient: const LinearGradient(
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
             colors: [
@@ -33,8 +38,9 @@ class MyHomePage extends StatelessWidget {
               Color.fromRGBO(93, 73, 136, 1),
             ],
           )),
+          // ignore: prefer_const_constructors
           child: Center(
-            child: Text(
+            child: const Text(
               'GFRIEND\nCardbook',
               style: TextStyle(
                 fontSize: 48.0,
