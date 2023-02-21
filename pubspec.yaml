@@ -61,12 +61,16 @@ flutter:
 
   assets :
     - images/
-    # - images/emblem/
+    - images/album/
+    - images/lobbybg/
+    - images/1_season_of_glass/1_glass_bead/
+    - images/emblem/
 
   fonts:
     - family: Nexa
       fonts:
         - asset: fonts/Nexa/NexaBold.otf
+        - asset: fonts/Nexa/NexaLight.otf
 
   # To add assets to your application, add an assets section, like this:
   # assets:
