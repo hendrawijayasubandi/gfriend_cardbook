@@ -55,7 +55,7 @@ class DetailScreen extends StatelessWidget {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
-        backgroundColor: Colors.purple,
+        backgroundColor: Color.fromRGBO(0, 174, 198, 1),
         // ignore: prefer_const_constructors
         shape: RoundedRectangleBorder(
             borderRadius: const BorderRadius.all(Radius.circular(15.0))),
