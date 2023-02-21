@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:gfriend_cardbook/main_screen.dart';
+import 'package:gfriend_cardbook/collection_seasonofglass.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -11,9 +11,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'GFRIEND Cardbook',
+      title: 'GFRIEND CARDBOOK',
       theme: ThemeData(),
-      home: MainScreen(),
+      home: SeasonofGlass(),
     );
   }
 }
