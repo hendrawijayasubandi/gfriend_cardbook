@@ -7,6 +7,8 @@ class AllCollection {
   String imageLobbyBG;
   List<String> imageCards;
 
+  static var length;
+
   AllCollection({
     required this.name,
     required this.date,

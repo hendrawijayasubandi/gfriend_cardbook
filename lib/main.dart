@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gfriend_cardbook/detail_screen.dart';
+import 'package:gfriend_cardbook/main_screen.dart';
 
 void main() {
   runApp(MyApp());
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'GFRIEND Cardbook',
       theme: ThemeData(),
-      home: DetailScreen(),
+      home: MainScreen(),
     );
   }
 }
