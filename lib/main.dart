@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gfriend_cardbook/collection_seasonofglass.dart';
+import 'package:gfriend_cardbook/main_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'GFRIEND CARDBOOK',
       theme: ThemeData(),
-      home: SeasonofGlass(),
+      home: MainScreen(),
     );
   }
 }
