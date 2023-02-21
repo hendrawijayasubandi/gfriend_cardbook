@@ -62,9 +62,83 @@ flutter:
   assets :
     - images/
     - images/album/
+    - images/emblem/
     - images/lobbybg/
     - images/1_season_of_glass/1_glass_bead/
-    - images/emblem/
+    - images/1_season_of_glass/2_neverland/
+    - images/1_season_of_glass/3_white/
+    - images/2_flower_bud/1_me_gustas_tu/
+    - images/2_flower_bud/2_under_the_sky/
+    - images/2_flower_bud/3_one/
+    - images/3_snowflake/1_rough/
+    - images/3_snowflake/2_luv_star/
+    - images/3_snowflake/3_someday/
+    - images/3_snowflake/4_trust/
+    - images/3_snowflake/5_parallel_line/
+    - images/4_lol/1_navillera/
+    - images/4_lol/2_lol/
+    - images/4_lol/3_water_flower/
+    - images/4_lol/4_gone_with_the_wind_le/
+    - images/4_lol/5_mermaid/
+    - images/4_lol/6_sunshine/
+    - images/4_lol/7_december_7th/
+    - images/5_the_awaykening/1_the_wind_sings/
+    - images/5_the_awaykening/2_fingertip/
+    - images/5_the_awaykening/3_my_earth/
+    - images/5_the_awaykening/4_contrail/
+    - images/5_the_awaykening/5_rain_in_the_spring_time/
+    - images/6_parallel/1_love_whisper/
+    - images/6_parallel/2_ave_maria/
+    - images/6_parallel/3_one-half/
+    - images/6_parallel/4_falling_asleep_again_le/
+    - images/7_rainbow/1_summer_rain/
+    - images/7_rainbow/2_rainbow/
+    - images/7_rainbow/3_red_umbrella/
+    - images/7_rainbow/4_colors/
+    - images/7_rainbow/5_raindrop/
+    - images/8_time_for_the_moon_night/1_moon_night/
+    - images/8_time_for_the_moon_night/2_love_bug/
+    - images/8_time_for_the_moon_night/3_flower_garden/
+    - images/8_time_for_the_moon_night/4_tik_tik/
+    - images/8_time_for_the_moon_night/5_bye_le/
+    - images/9_sunny_summer/1_sunny_summer/
+    - images/9_sunny_summer/2_vacation/
+    - images/9_sunny_summer/3_sweety/
+    - images/9_sunny_summer/4_love_in_the_air_le/
+    - images/9_sunny_summer/5_windy_windy_le_halloween/
+    - images/10_time_for_us/1_sunrise/
+    - images/10_time_for_us/2_l.u.v._/
+    - images/10_time_for_us/3_a_starry_sky/
+    - images/10_time_for_us/4_only_1/
+    - images/10_time_for_us/5_you_are_not_alone/
+    - images/10_time_for_us/6_love_oh_love/
+    - images/10_time_for_us/7_our_secret/
+    - images/11_go_go_gfriend/go_go_gfriend!/
+    - images/12_fever_season/1_fever/
+    - images/12_fever_season/2_mr._blue/
+    - images/12_fever_season/3_hope/
+    - images/12_fever_season/4_smile_le/
+    - images/12_fever_season/5_flower/
+    - images/13_labyrinth/1_labyrinth/
+    - images/13_labyrinth/2_cross_roads/
+    - images/13_labyrinth/3_here_we_are/
+    - images/13_labyrinth/4_august_19th_original_event/
+    - images/13_labyrinth/5_eclipse/
+    - images/13_labyrinth/6_dreamcatcher/
+    - images/13_labyrinth/7_promise/
+    - images/14_song_of_the_sirens/1_apple/
+    - images/14_song_of_the_sirens/2_room_of_mirrors_le/
+    - images/14_song_of_the_sirens/3_october_4th_original_event/
+    - images/14_song_of_the_sirens/4_stair_in_the_north_le_halloween/
+    - images/14_song_of_the_sirens/5_tarot_cards/
+    - images/14_song_of_the_sirens/6_ruby/
+    - images/15_walpurgis_night/1_mago/
+    - images/15_walpurgis_night/2_three_of_cups_le/
+    - images/15_walpurgis_night/3_wheel_of_the_year_le/
+    - images/15_walpurgis_night/4_grwm/
+    - images/15_walpurgis_night/5_secret_diary/
+    - images/15_walpurgis_night/6_better_me/
+    - images/15_walpurgis_night/7_night_drive_le/
 
   fonts:
     - family: Nexa
